@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (min-width: 769px) {
     .header {
-        z-index: 1;
+        /* z-index: 1; */
     }
 }
 
@@ -262,6 +262,10 @@ h1, h2, h3, h4, h5, h6 {
 
     .dwd_signature {
         display: none !important;
+    }
+
+    .specialties .icon {
+        display: none;
     }
 }
 
@@ -424,7 +428,7 @@ article {
     position: fixed; 
     top:0px;
     right: 0px;
-    z-index:3;
+    z-index:2;
 }
 
 #burger_btn div {
