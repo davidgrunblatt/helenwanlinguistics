@@ -1,7 +1,7 @@
 
-// routes
-const bleh = require('./get');
+// // routes
+// const bleh = require('./get');
 
-module.exports = function(app){
-    app.use('/', bleh);
-}
+// module.exports = function(app){
+//     app.use('/', bleh);
+// }
