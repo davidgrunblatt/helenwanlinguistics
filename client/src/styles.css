@@ -181,6 +181,9 @@ h1, h2, h3, h4, h5, h6 {
     .slogan h1 {
         font-size: 35px;
     }
+    .banner {
+        background-image: url('./images/bg_0.png');
+    }
 }
 
 .badge {
@@ -428,7 +431,7 @@ article {
     position: fixed; 
     top:0px;
     right: 0px;
-    z-index:2;
+    z-index:3;
 }
 
 #burger_btn div {
