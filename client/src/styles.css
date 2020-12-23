@@ -199,6 +199,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .specialties .icon {
     max-width: 50px;
+    height: 50px;
 }
 
 .three_icons {
@@ -458,7 +459,7 @@ article {
     margin-right: 20px;;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     #burger_btn {
         display: none;
     }
