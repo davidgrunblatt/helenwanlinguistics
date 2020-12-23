@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
     top:0px;
     background: #fff;
     min-height: 80px;
-    z-index: 2;
+    /* z-index: 2; */
 }
 
 .navbar_container .navbar_nav nav a {
@@ -431,7 +431,7 @@ article {
     position: fixed; 
     top:0px;
     right: 0px;
-    z-index:3;
+    z-index:2;
 }
 
 #burger_btn div {
