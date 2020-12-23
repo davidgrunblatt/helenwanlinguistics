@@ -3,8 +3,6 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3001;
 const bodyP = require('body-parser');
-// import routes
-// require('./routes/exporter')(app);
 
 // middleware
 app.use(bodyP.urlencoded());
